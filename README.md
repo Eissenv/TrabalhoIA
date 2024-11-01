@@ -15,6 +15,9 @@ Modelos/: Pasta onde estão localizados os modelos gerados através de treinamen
 
 Teste-Visualizacao/: Pasta onde coloco imagens para testes isolados.
 
+## Arquiteturas utilizadas
+ EfficientNet
+
 ## Execução:
 
 1. Clone esse repositório e coloque os arquivos dentro de uma pasta chamada "TrabalhoIA" no google drive. 
